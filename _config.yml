@@ -1,0 +1,14 @@
+layout_spectrum: 0.9233601996675134
+typography_spectrum: 0.3581135096028447
+color:
+  brandStrength: 0.9506648222450167
+  lightness: 0.3734828941524029
+  saturation: 0.9999512345530093
+  rhythmicContrast: 0.0022793675307184458
+  brandColors:
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
+name: suspicious sageness
